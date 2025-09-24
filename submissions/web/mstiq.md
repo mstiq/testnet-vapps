@@ -2,26 +2,25 @@
 
 ## Verification
 ```yaml
-github_username: "your-username"
-discord_id: "123456789012345678"
-timestamp: "2025-01-15"
+github_username: "mstiq"
+discord_id: "723168549430100089"
+timestamp: "2025-09-24"
 ```
 
 ## Developer
-- **Name**: Your Name
-- **GitHub**: @your-username
-- **Discord**: username#1234
-- **Experience**: Brief background
+- **Name**: 0xmistiq
+- **GitHub**: @mstiq
+- **Discord**: 0xmistiq#5580
+- **Experience**: Web developer
 
 ## Project
 
 ### Name & Category
-- **Project**: Your vApp Name
-- **Category**: identity/defi/social/gaming/infrastructure/other
+- **Project**: TESTNET-VAPPS
+- **Category**: WEB
 
 ### Description
-What problem does your vApp solve? What does it do?
-
+A decentralized task manager that helps users organize daily activities with blockchain-based proof of completion
 ### SL Integration  
 How will you use Soundness Layer? What specific SL features?
 
